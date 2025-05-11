@@ -308,3 +308,4 @@ main_win.setLayout(layout_main)
 next_question()
 main_win.show()
 app.exec_()
+#hjhkl;
